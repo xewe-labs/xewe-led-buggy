@@ -1,3 +1,5 @@
+> Archived. Part of the XeWe LED family; see https://github.com/xewe-labs/xewe-led-os.
+
 # XeWe LED - Buggy — animated RGB strips and a glowing logo for a dune buggy
 
 Personal project · built 2019–2020, uploaded 2023-11-18 · Solo: Max Dokukin · Status: Completed
